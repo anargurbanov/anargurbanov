@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anargurbanov
-- 👀 I’m interested in Product Management, Analuytics, Data Science & AI.
+- 👀 I’m interested in Product Management, Analytics, Data Science & AI.
 - 🌱 I’m currently learning Data Science and Programming Languages.
 - 💞️ I’m looking to collaborate on Product Management.
 - 📫 How to reach me: gurbanovanar@yahoo.com
